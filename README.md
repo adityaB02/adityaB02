@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityaB02
 - 👀 I’m interested in c/c++ repositories.
-- 🌱 I’m currently learning Full-Stack Web Development.
+- 🌱 Implementing Embedded Systems and Internet of Things .
 - 📫 Pin me at - adityabhandoh02@gmail.com 
 
 <!---
